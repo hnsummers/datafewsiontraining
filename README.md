@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+**Haleigh** _Summers_ and *Sadie*
+
 [Link](url) and ![Image](src)
 ```
 
