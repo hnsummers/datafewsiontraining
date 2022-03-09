@@ -25,7 +25,6 @@ Syntax highlighted code block
 
 **Haleigh** _Summers_ and *Sadie*
 
-![Picture](https://raw.githubusercontent.com/hnsummers/datafewsiontraining/main/images/haleigh-sadie-zoom.png)
 
 [Link](url) and ![Image](src)
 ```
